@@ -58,6 +58,8 @@ Regional representatives give voice to the members, institutions, and projects i
 
 To nominate someone for one of the positions above, first confirm that the nominee is willing to accept the responsibilities of the office.  Then work with the nominee to send a brief statement of the nominee’s background and vision (maximum 400 words) to the TDWG Secretary ([secretary@tdwg.org](mailto:secretary@tdwg.org)).  Self nominations are accepted.  All nominations must be complete and received before the close of the annual meeting.
 
+#### [Submitted nominations](https://www.tdwg.org/about/executive/2019/)
+
 ## Election procedure
 
 The TDWG Secretariat will post nominees’ statements to the TDWG website and distribute ballots to all institutional and individual members in good standing.  In the case of institutional members, we will notify the primary and secondary contacts, but only one ballot response will be accepted. If you are uncertain about your membership status, please inquire with the TDWG Treasurer ([treasurer@tdwg.org](mailto:treasurer@tdwg.org)). Institutional ballots will be weighted as five individual ballots.

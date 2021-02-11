@@ -10,6 +10,8 @@ page_order: 4
 
 ## Interested in hosting a meeting?
 
+If you are interested in hosting a Meeting or have any questions, please [contact us](mailto:tardis@tdwg.org).
+
 Get in touch with the [time and place subcommittee]({filename}../about/committees/tardis/index.md).
 
 ## Conferences
